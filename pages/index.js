@@ -1,5 +1,5 @@
 function Home() {
-return <h1>Você é capaz de entender e realizar!</h1> 
+return <h1>Tio Juares, muito obrigada.</h1> 
 }
   
 export default Home;
