@@ -1,5 +1,5 @@
 # clone-tabnews
-Implementação de um clone do https://www.tabnews.com.br/ para o https://curso.dev 
 
+Implementação de um clone do https://www.tabnews.com.br/ para o https://curso.dev
 
-teste pra ver se salva msm 
+teste pra ver se salva msm
